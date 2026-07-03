@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/aman0071232/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aman0071232/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aman0071232/DSA/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/aman0071232/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aman0071232/DSA/tree/master/0041-first-missing-positive) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aman0071232/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
@@ -21,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aman0071232/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman0071232/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/aman0071232/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aman0071232/DSA/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
@@ -61,4 +63,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman0071232/DSA/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aman0071232/DSA/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aman0071232/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
