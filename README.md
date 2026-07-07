@@ -87,6 +87,7 @@
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/aman0071232/DSA/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/aman0071232/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1192-critical-connections-in-a-network](https://github.com/aman0071232/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aman0071232/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [2360-longest-cycle-in-a-graph](https://github.com/aman0071232/DSA/tree/master/2360-longest-cycle-in-a-graph) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/aman0071232/DSA/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/aman0071232/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1192-critical-connections-in-a-network](https://github.com/aman0071232/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [2360-longest-cycle-in-a-graph](https://github.com/aman0071232/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Breadth-First Search
@@ -106,6 +108,7 @@
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/aman0071232/DSA/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/aman0071232/DSA/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/aman0071232/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -122,5 +125,6 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/aman0071232/DSA/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/aman0071232/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
