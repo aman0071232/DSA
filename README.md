@@ -79,10 +79,12 @@
 ## Union-Find
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/aman0071232/DSA/tree/master/0685-redundant-connection-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aman0071232/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/aman0071232/DSA/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/aman0071232/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aman0071232/DSA/tree/master/1584-min-cost-to-connect-all-points) |
@@ -93,11 +95,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/aman0071232/DSA/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/aman0071232/DSA/tree/master/1192-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/aman0071232/DSA/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |
