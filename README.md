@@ -37,6 +37,7 @@
 | [0002-add-two-numbers](https://github.com/aman0071232/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aman0071232/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aman0071232/DSA/tree/master/0009-palindrome-number) |
+| [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aman0071232/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -64,6 +65,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aman0071232/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -127,4 +129,12 @@
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/aman0071232/DSA/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/aman0071232/DSA/tree/master/2360-longest-cycle-in-a-graph) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
