@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/aman0071232/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/aman0071232/DSA/tree/master/0041-first-missing-positive) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aman0071232/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aman0071232/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aman0071232/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
@@ -139,4 +140,12 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
