@@ -148,4 +148,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/aman0071232/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
