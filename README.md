@@ -27,6 +27,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aman0071232/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/aman0071232/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/aman0071232/DSA/tree/master/0038-count-and-say) |
+| [1768-merge-strings-alternately](https://github.com/aman0071232/DSA/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aman0071232/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aman0071232/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aman0071232/DSA/tree/master/0011-container-with-most-water) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aman0071232/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/aman0071232/DSA/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
