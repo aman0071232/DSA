@@ -17,6 +17,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aman0071232/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aman0071232/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aman0071232/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/aman0071232/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aman0071232/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -171,4 +172,5 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/aman0071232/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/aman0071232/DSA/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
