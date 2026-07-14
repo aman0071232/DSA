@@ -177,4 +177,8 @@
 | [0724-find-pivot-index](https://github.com/aman0071232/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman0071232/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/aman0071232/DSA/tree/master/1732-find-the-highest-altitude) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/aman0071232/DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
