@@ -14,6 +14,7 @@
 | [0605-can-place-flowers](https://github.com/aman0071232/DSA/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/aman0071232/DSA/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/aman0071232/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman0071232/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aman0071232/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aman0071232/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aman0071232/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/aman0071232/DSA/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/aman0071232/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aman0071232/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
