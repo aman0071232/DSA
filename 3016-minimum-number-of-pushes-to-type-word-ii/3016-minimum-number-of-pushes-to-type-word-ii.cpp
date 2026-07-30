@@ -1,19 +1,19 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-         vector<int>freq(26,0);
+        vector<int> mp(26, 0);
+        int result=0;
+        for (char c : word)
+            mp[c - 'a']++;
 
-        for(char c:word)
-        freq[c-'a']++;
+        sort(mp.begin(), mp.end(), greater<int>());
 
-        sort(freq.begin(),freq.end(),greater<int>());
+        for (int i = 0; i < 26; i++) {
 
-        int ans=0;
-
-        for(int i=0;i<26;i++){
-            if(freq[i]==0)break;
-            ans+=freq[i]*(i/8+1);
+            int freq = mp[i];
+            int press = i / 8 + 1;
+            result += press * freq;
         }
-        return ans;
+        return result;;
     }
 };
