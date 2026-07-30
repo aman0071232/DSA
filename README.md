@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/aman0071232/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/aman0071232/DSA/tree/master/0041-first-missing-positive) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aman0071232/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/aman0071232/DSA/tree/master/0198-house-robber) |
 | [0605-can-place-flowers](https://github.com/aman0071232/DSA/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/aman0071232/DSA/tree/master/0724-find-pivot-index) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aman0071232/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/aman0071232/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/aman0071232/DSA/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/aman0071232/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
