@@ -25,6 +25,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/aman0071232/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aman0071232/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/aman0071232/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/aman0071232/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aman0071232/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2498-frog-jump-ii](https://github.com/aman0071232/DSA/tree/master/2498-frog-jump-ii) |
 | [3693-climbing-stairs-ii](https://github.com/aman0071232/DSA/tree/master/3693-climbing-stairs-ii) |
@@ -108,6 +109,7 @@
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aman0071232/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aman0071232/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/aman0071232/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3693-climbing-stairs-ii](https://github.com/aman0071232/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3840-house-robber-v](https://github.com/aman0071232/DSA/tree/master/3840-house-robber-v) |
 ## Greedy
