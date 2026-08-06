@@ -17,6 +17,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/aman0071232/DSA/tree/master/0403-frog-jump) |
 | [0605-can-place-flowers](https://github.com/aman0071232/DSA/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/aman0071232/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/aman0071232/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -108,6 +109,7 @@
 | [0198-house-robber](https://github.com/aman0071232/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/aman0071232/DSA/tree/master/0403-frog-jump) |
+| [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/aman0071232/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
@@ -121,6 +123,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman0071232/DSA/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/aman0071232/DSA/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [2498-frog-jump-ii](https://github.com/aman0071232/DSA/tree/master/2498-frog-jump-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
@@ -209,6 +212,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aman0071232/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -247,4 +251,5 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
