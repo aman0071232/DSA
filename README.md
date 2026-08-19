@@ -16,6 +16,7 @@
 | [0198-house-robber](https://github.com/aman0071232/DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/aman0071232/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aman0071232/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/aman0071232/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/aman0071232/DSA/tree/master/0403-frog-jump) |
 | [0605-can-place-flowers](https://github.com/aman0071232/DSA/tree/master/0605-can-place-flowers) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aman0071232/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aman0071232/DSA/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/aman0071232/DSA/tree/master/0283-move-zeroes) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aman0071232/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/aman0071232/DSA/tree/master/1768-merge-strings-alternately) |
