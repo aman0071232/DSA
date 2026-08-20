@@ -43,6 +43,7 @@
 | [2029-stone-game-ix](https://github.com/aman0071232/DSA/tree/master/2029-stone-game-ix) |
 | [2498-frog-jump-ii](https://github.com/aman0071232/DSA/tree/master/2498-frog-jump-ii) |
 | [2942-find-words-containing-character](https://github.com/aman0071232/DSA/tree/master/2942-find-words-containing-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aman0071232/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aman0071232/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3693-climbing-stairs-ii](https://github.com/aman0071232/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aman0071232/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -248,6 +249,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/aman0071232/DSA/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aman0071232/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
 | ------- |
