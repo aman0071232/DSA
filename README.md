@@ -97,6 +97,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/aman0071232/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aman0071232/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aman0071232/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aman0071232/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aman0071232/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -229,6 +230,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/aman0071232/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aman0071232/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aman0071232/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aman0071232/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/aman0071232/DSA/tree/master/0685-redundant-connection-ii) |
@@ -397,4 +399,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aman0071232/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aman0071232/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aman0071232/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
