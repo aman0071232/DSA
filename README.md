@@ -88,6 +88,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/aman0071232/DSA/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aman0071232/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/aman0071232/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0189-rotate-array](https://github.com/aman0071232/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aman0071232/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/aman0071232/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aman0071232/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/aman0071232/DSA/tree/master/1768-merge-strings-alternately) |
