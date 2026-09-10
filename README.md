@@ -15,6 +15,7 @@
 | [0056-merge-intervals](https://github.com/aman0071232/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/aman0071232/DSA/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/aman0071232/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/aman0071232/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aman0071232/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/aman0071232/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aman0071232/DSA/tree/master/0189-rotate-array) |
@@ -194,6 +195,7 @@
 | [0070-climbing-stairs](https://github.com/aman0071232/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aman0071232/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/aman0071232/DSA/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/aman0071232/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aman0071232/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/aman0071232/DSA/tree/master/0403-frog-jump) |
