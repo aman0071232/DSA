@@ -21,6 +21,7 @@
 | [0189-rotate-array](https://github.com/aman0071232/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aman0071232/DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/aman0071232/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/aman0071232/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/aman0071232/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aman0071232/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman0071232/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/aman0071232/DSA/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/aman0071232/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman0071232/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aman0071232/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -288,6 +290,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/aman0071232/DSA/tree/master/0239-sliding-window-maximum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aman0071232/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aman0071232/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -452,4 +455,16 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aman0071232/DSA/tree/master/0056-merge-intervals) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aman0071232/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aman0071232/DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aman0071232/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
