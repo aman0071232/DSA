@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/aman0071232/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/aman0071232/DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/aman0071232/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/aman0071232/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/aman0071232/DSA/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/aman0071232/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aman0071232/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -327,6 +328,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/aman0071232/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/aman0071232/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aman0071232/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -441,4 +443,8 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aman0071232/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/aman0071232/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
