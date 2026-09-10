@@ -11,6 +11,7 @@
 | [0037-sudoku-solver](https://github.com/aman0071232/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aman0071232/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/aman0071232/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/aman0071232/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aman0071232/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aman0071232/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/aman0071232/DSA/tree/master/0064-minimum-path-sum) |
@@ -70,6 +71,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aman0071232/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/aman0071232/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/aman0071232/DSA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/aman0071232/DSA/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/aman0071232/DSA/tree/master/0131-palindrome-partitioning) |
 | [0680-valid-palindrome-ii](https://github.com/aman0071232/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
@@ -87,6 +89,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman0071232/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/aman0071232/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aman0071232/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/aman0071232/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aman0071232/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aman0071232/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aman0071232/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -336,6 +339,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aman0071232/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aman0071232/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/aman0071232/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aman0071232/DSA/tree/master/0268-missing-number) |
