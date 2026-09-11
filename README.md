@@ -30,6 +30,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/aman0071232/DSA/tree/master/0403-frog-jump) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aman0071232/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aman0071232/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/aman0071232/DSA/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
@@ -166,6 +167,7 @@
 | [0268-missing-number](https://github.com/aman0071232/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aman0071232/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman0071232/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/aman0071232/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2498-frog-jump-ii](https://github.com/aman0071232/DSA/tree/master/2498-frog-jump-ii) |
