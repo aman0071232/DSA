@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/aman0071232/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aman0071232/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/aman0071232/DSA/tree/master/0064-minimum-path-sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/aman0071232/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/aman0071232/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/aman0071232/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aman0071232/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aman0071232/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/aman0071232/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aman0071232/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/aman0071232/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
