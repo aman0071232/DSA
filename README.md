@@ -43,6 +43,7 @@
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aman0071232/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman0071232/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aman0071232/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/aman0071232/DSA/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aman0071232/DSA/tree/master/1584-min-cost-to-connect-all-points) |
@@ -106,6 +107,7 @@
 | [0904-fruit-into-baskets](https://github.com/aman0071232/DSA/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman0071232/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aman0071232/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aman0071232/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -158,6 +160,7 @@
 | [0904-fruit-into-baskets](https://github.com/aman0071232/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman0071232/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aman0071232/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman0071232/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aman0071232/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aman0071232/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
@@ -171,6 +174,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aman0071232/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman0071232/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman0071232/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/aman0071232/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2498-frog-jump-ii](https://github.com/aman0071232/DSA/tree/master/2498-frog-jump-ii) |
 ## Divide and Conquer
@@ -220,6 +224,7 @@
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aman0071232/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman0071232/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aman0071232/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/aman0071232/DSA/tree/master/1563-stone-game-v) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/aman0071232/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
