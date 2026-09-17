@@ -36,6 +36,7 @@
 | [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/aman0071232/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/aman0071232/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/aman0071232/DSA/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/aman0071232/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman0071232/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman0071232/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -254,6 +255,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/aman0071232/DSA/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/aman0071232/DSA/tree/master/0064-minimum-path-sum) |
+| [0835-image-overlap](https://github.com/aman0071232/DSA/tree/master/0835-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/aman0071232/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1992-find-all-groups-of-farmland](https://github.com/aman0071232/DSA/tree/master/1992-find-all-groups-of-farmland) |
 ## Union-Find
