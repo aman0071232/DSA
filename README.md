@@ -144,6 +144,7 @@
 | [1563-stone-game-v](https://github.com/aman0071232/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/aman0071232/DSA/tree/master/2029-stone-game-ix) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aman0071232/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3870-count-commas-in-range](https://github.com/aman0071232/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aman0071232/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aman0071232/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
