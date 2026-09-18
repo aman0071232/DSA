@@ -58,6 +58,7 @@
 | [2029-stone-game-ix](https://github.com/aman0071232/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aman0071232/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aman0071232/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2295-replace-elements-in-an-array](https://github.com/aman0071232/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2498-frog-jump-ii](https://github.com/aman0071232/DSA/tree/master/2498-frog-jump-ii) |
 | [2942-find-words-containing-character](https://github.com/aman0071232/DSA/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aman0071232/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -111,6 +112,7 @@
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman0071232/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aman0071232/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2295-replace-elements-in-an-array](https://github.com/aman0071232/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aman0071232/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aman0071232/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -356,6 +358,7 @@
 | [1929-concatenation-of-array](https://github.com/aman0071232/DSA/tree/master/1929-concatenation-of-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/aman0071232/DSA/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aman0071232/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2295-replace-elements-in-an-array](https://github.com/aman0071232/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aman0071232/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aman0071232/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
