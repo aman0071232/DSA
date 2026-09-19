@@ -11,6 +11,7 @@
 | [0037-sudoku-solver](https://github.com/aman0071232/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aman0071232/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/aman0071232/DSA/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/aman0071232/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/aman0071232/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aman0071232/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aman0071232/DSA/tree/master/0056-merge-intervals) |
@@ -267,6 +268,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/aman0071232/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aman0071232/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/aman0071232/DSA/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/aman0071232/DSA/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
