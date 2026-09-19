@@ -1,29 +1,28 @@
 class Solution {
 public:
-   void getperms(vector<int>&nums ,int idx,vector<vector<int>>&ans){
-    if(idx == nums.size()){
-        ans.push_back({nums});
-        return;
+    vector<vector<int>> result;
+    unordered_set<int> st;
+    void solve(vector<int>& temp, vector<int>& nums) {
+        int n = nums.size();
+        if (temp.size() == n) {
+            result.push_back(temp);
+            return;
+        }
+        for (int i = 0; i < n; i++) {
+            if (st.find(nums[i]) == st.end()) {
+                st.insert(nums[i]);
+
+                temp.push_back(nums[i]);
+                solve(temp, nums);
+
+                temp.pop_back();
+                st.erase(nums[i]);
+            }
+        }
     }
-
-
-    for(int i=idx;i<nums.size();i++){
-        swap(nums[idx],nums[i]);//idx place====ith element choice
-           getperms(nums,idx+1,ans);
-
-
-
-           swap(nums[idx],nums[i]);//backtracking
-           
-    }
-
-   }
-
-
-
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>>ans;
-        getperms(nums,0,ans);
-        return ans;
+        vector<int> temp;
+        solve(temp, nums);
+        return result;
     }
 };
