@@ -82,6 +82,7 @@
 | [0038-count-and-say](https://github.com/aman0071232/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/aman0071232/DSA/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/aman0071232/DSA/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/aman0071232/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/aman0071232/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1768-merge-strings-alternately](https://github.com/aman0071232/DSA/tree/master/1768-merge-strings-alternately) |
@@ -202,6 +203,7 @@
 | [0061-rotate-list](https://github.com/aman0071232/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/aman0071232/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aman0071232/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/aman0071232/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aman0071232/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/aman0071232/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aman0071232/DSA/tree/master/0283-move-zeroes) |
