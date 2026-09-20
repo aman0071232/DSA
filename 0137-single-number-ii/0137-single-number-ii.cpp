@@ -1,17 +1,22 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int, int> mp;
-        int st = 0;
-        for (int i = 0; i < nums.size(); i++) {
-            mp[nums[i]]++;
+        int result = 0;
+        for (int k = 0; k <= 31; k++) {
+       
+            int countones = 0;
+            int temp = (1 << k);
+            for (int num : nums) {
+                if ((num & temp) == 0) {
+                  
+                } else {
+                    countones++;
+                }
+            }
+            if (countones % 3 == 1) {
+                result = (result | temp);
+            }
         }
-        for(int i=0;i<nums.size();i++){
-              if(mp[nums[i]]==1){
-                st=nums[i];
-                break;
-              }
-        }
-        return st;
+        return result;
     }
 };
