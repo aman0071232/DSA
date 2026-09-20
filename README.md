@@ -242,6 +242,7 @@
 | [0152-maximum-product-subarray](https://github.com/aman0071232/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aman0071232/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/aman0071232/DSA/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/aman0071232/DSA/tree/master/0403-frog-jump) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/aman0071232/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -485,6 +486,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/aman0071232/DSA/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/aman0071232/DSA/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/aman0071232/DSA/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aman0071232/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
