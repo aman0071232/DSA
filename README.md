@@ -47,6 +47,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/aman0071232/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman0071232/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aman0071232/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1035-uncrossed-lines](https://github.com/aman0071232/DSA/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aman0071232/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -261,6 +262,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/aman0071232/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aman0071232/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1035-uncrossed-lines](https://github.com/aman0071232/DSA/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1402-reducing-dishes](https://github.com/aman0071232/DSA/tree/master/1402-reducing-dishes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman0071232/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -594,4 +596,8 @@
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/aman0071232/DSA/tree/master/0879-profitable-schemes) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1035-uncrossed-lines](https://github.com/aman0071232/DSA/tree/master/1035-uncrossed-lines) |
 <!---LeetCode Topics End-->
