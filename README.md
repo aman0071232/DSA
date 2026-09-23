@@ -272,6 +272,7 @@
 | [1911-maximum-alternating-subsequence-sum](https://github.com/aman0071232/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2050-parallel-courses-iii](https://github.com/aman0071232/DSA/tree/master/2050-parallel-courses-iii) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/aman0071232/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2466-count-ways-to-build-good-strings](https://github.com/aman0071232/DSA/tree/master/2466-count-ways-to-build-good-strings) |
 | [3693-climbing-stairs-ii](https://github.com/aman0071232/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3840-house-robber-v](https://github.com/aman0071232/DSA/tree/master/3840-house-robber-v) |
 ## Greedy
