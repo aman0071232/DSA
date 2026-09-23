@@ -60,6 +60,7 @@
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aman0071232/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aman0071232/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/aman0071232/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
 | [1901-find-a-peak-element-ii](https://github.com/aman0071232/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/aman0071232/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/aman0071232/DSA/tree/master/1929-concatenation-of-array) |
@@ -167,6 +168,7 @@
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aman0071232/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/aman0071232/DSA/tree/master/1563-stone-game-v) |
+| [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
 | [2029-stone-game-ix](https://github.com/aman0071232/DSA/tree/master/2029-stone-game-ix) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aman0071232/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/aman0071232/DSA/tree/master/3870-count-commas-in-range) |
@@ -270,6 +272,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aman0071232/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/aman0071232/DSA/tree/master/1563-stone-game-v) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aman0071232/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/aman0071232/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2050-parallel-courses-iii](https://github.com/aman0071232/DSA/tree/master/2050-parallel-courses-iii) |
 | [2140-solving-questions-with-brainpower](https://github.com/aman0071232/DSA/tree/master/2140-solving-questions-with-brainpower) |
@@ -299,6 +302,7 @@
 | [0046-permutations](https://github.com/aman0071232/DSA/tree/master/0046-permutations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aman0071232/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/aman0071232/DSA/tree/master/0131-palindrome-partitioning) |
+| [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -513,6 +517,7 @@
 | [0338-counting-bits](https://github.com/aman0071232/DSA/tree/master/0338-counting-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aman0071232/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aman0071232/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aman0071232/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
@@ -603,4 +608,12 @@
 |  |
 | ------- |
 | [1035-uncrossed-lines](https://github.com/aman0071232/DSA/tree/master/1035-uncrossed-lines) |
+## Number Theory
+|  |
+| ------- |
+| [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
+## Bitmask
+|  |
+| ------- |
+| [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
 <!---LeetCode Topics End-->
