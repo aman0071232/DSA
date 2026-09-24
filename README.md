@@ -44,6 +44,7 @@
 | [0835-image-overlap](https://github.com/aman0071232/DSA/tree/master/0835-image-overlap) |
 | [0879-profitable-schemes](https://github.com/aman0071232/DSA/tree/master/0879-profitable-schemes) |
 | [0904-fruit-into-baskets](https://github.com/aman0071232/DSA/tree/master/0904-fruit-into-baskets) |
+| [0956-tallest-billboard](https://github.com/aman0071232/DSA/tree/master/0956-tallest-billboard) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman0071232/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/aman0071232/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman0071232/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -270,6 +271,7 @@
 | [0813-largest-sum-of-averages](https://github.com/aman0071232/DSA/tree/master/0813-largest-sum-of-averages) |
 | [0879-profitable-schemes](https://github.com/aman0071232/DSA/tree/master/0879-profitable-schemes) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/aman0071232/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0956-tallest-billboard](https://github.com/aman0071232/DSA/tree/master/0956-tallest-billboard) |
 | [0983-minimum-cost-for-tickets](https://github.com/aman0071232/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aman0071232/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -620,10 +622,12 @@
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/aman0071232/DSA/tree/master/0879-profitable-schemes) |
+| [0956-tallest-billboard](https://github.com/aman0071232/DSA/tree/master/0956-tallest-billboard) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/aman0071232/DSA/tree/master/0879-profitable-schemes) |
+| [0956-tallest-billboard](https://github.com/aman0071232/DSA/tree/master/0956-tallest-billboard) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -636,4 +640,8 @@
 |  |
 | ------- |
 | [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
+## Meet in the Middle
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/aman0071232/DSA/tree/master/0956-tallest-billboard) |
 <!---LeetCode Topics End-->
