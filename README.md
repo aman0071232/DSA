@@ -174,6 +174,7 @@
 | [0070-climbing-stairs](https://github.com/aman0071232/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aman0071232/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aman0071232/DSA/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aman0071232/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/aman0071232/DSA/tree/master/1563-stone-game-v) |
@@ -266,6 +267,7 @@
 | [0131-palindrome-partitioning](https://github.com/aman0071232/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/aman0071232/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aman0071232/DSA/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aman0071232/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/aman0071232/DSA/tree/master/0338-counting-bits) |
@@ -385,6 +387,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aman0071232/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aman0071232/DSA/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/aman0071232/DSA/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -632,6 +635,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
 | [0879-profitable-schemes](https://github.com/aman0071232/DSA/tree/master/0879-profitable-schemes) |
 | [0956-tallest-billboard](https://github.com/aman0071232/DSA/tree/master/0956-tallest-billboard) |
 ## 0-1 Knapsack
@@ -655,4 +659,8 @@
 |  |
 | ------- |
 | [0956-tallest-billboard](https://github.com/aman0071232/DSA/tree/master/0956-tallest-billboard) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
