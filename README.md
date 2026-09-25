@@ -53,6 +53,7 @@
 | [1035-uncrossed-lines](https://github.com/aman0071232/DSA/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1187-make-array-strictly-increasing](https://github.com/aman0071232/DSA/tree/master/1187-make-array-strictly-increasing) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/aman0071232/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aman0071232/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/aman0071232/DSA/tree/master/1402-reducing-dishes) |
@@ -215,6 +216,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/aman0071232/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman0071232/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1187-make-array-strictly-increasing](https://github.com/aman0071232/DSA/tree/master/1187-make-array-strictly-increasing) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/aman0071232/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman0071232/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aman0071232/DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/aman0071232/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -282,6 +284,7 @@
 | [1035-uncrossed-lines](https://github.com/aman0071232/DSA/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1187-make-array-strictly-increasing](https://github.com/aman0071232/DSA/tree/master/1187-make-array-strictly-increasing) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/aman0071232/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1402-reducing-dishes](https://github.com/aman0071232/DSA/tree/master/1402-reducing-dishes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman0071232/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aman0071232/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -455,6 +458,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/aman0071232/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1187-make-array-strictly-increasing](https://github.com/aman0071232/DSA/tree/master/1187-make-array-strictly-increasing) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/aman0071232/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aman0071232/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/aman0071232/DSA/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aman0071232/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
