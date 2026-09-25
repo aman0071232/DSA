@@ -38,6 +38,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/aman0071232/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/aman0071232/DSA/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aman0071232/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/aman0071232/DSA/tree/master/0724-find-pivot-index) |
@@ -275,6 +276,7 @@
 | [0403-frog-jump](https://github.com/aman0071232/DSA/tree/master/0403-frog-jump) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aman0071232/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aman0071232/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/aman0071232/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -546,6 +548,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1187-make-array-strictly-increasing](https://github.com/aman0071232/DSA/tree/master/1187-make-array-strictly-increasing) |
 ## Bit Manipulation
 |  |
@@ -665,4 +668,12 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
