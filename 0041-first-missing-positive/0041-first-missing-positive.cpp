@@ -2,22 +2,17 @@ class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
         int n = nums.size();
-        
-        // Step 1: Place each number x at index x-1 if possible
+        vector<int> count(n + 1, 0);
         for (int i = 0; i < n; i++) {
-            while (nums[i] > 0 && nums[i] <= n && 
-                   nums[nums[i] - 1] != nums[i]) {
-                swap(nums[i], nums[nums[i] - 1]);
-            }
+            if (nums[i] <= 0 || nums[i] > n)
+                continue;
+            
+                count[nums[i]]++;
         }
-        
-        // Step 2: Find first position where index doesn't match value-1
-        for (int i = 0; i < n; i++) {
-            if (nums[i] != i + 1) {
-                return i + 1;
-            }
+        for (int i = 1; i <=n; i++) {
+            if (count[i] == 0)
+                return i;
         }
-        
-        return n + 1;
+        return n+1;
     }
 };
