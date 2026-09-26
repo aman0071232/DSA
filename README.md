@@ -70,6 +70,7 @@
 | [1732-find-the-highest-altitude](https://github.com/aman0071232/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aman0071232/DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aman0071232/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/aman0071232/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/aman0071232/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/aman0071232/DSA/tree/master/1929-concatenation-of-array) |
@@ -114,6 +115,7 @@
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aman0071232/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1768-merge-strings-alternately](https://github.com/aman0071232/DSA/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aman0071232/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aman0071232/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/aman0071232/DSA/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2938-separate-black-and-white-balls](https://github.com/aman0071232/DSA/tree/master/2938-separate-black-and-white-balls) |
@@ -144,6 +146,7 @@
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman0071232/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aman0071232/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aman0071232/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/aman0071232/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aman0071232/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
