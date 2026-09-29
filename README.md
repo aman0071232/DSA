@@ -113,6 +113,7 @@
 | [0131-palindrome-partitioning](https://github.com/aman0071232/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/aman0071232/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aman0071232/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/aman0071232/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/aman0071232/DSA/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/aman0071232/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aman0071232/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -262,6 +263,7 @@
 | [0283-move-zeroes](https://github.com/aman0071232/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aman0071232/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/aman0071232/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/aman0071232/DSA/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/aman0071232/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/aman0071232/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -288,6 +290,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aman0071232/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/aman0071232/DSA/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/aman0071232/DSA/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/aman0071232/DSA/tree/master/0403-frog-jump) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aman0071232/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
