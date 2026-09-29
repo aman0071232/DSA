@@ -83,6 +83,7 @@
 | [2140-solving-questions-with-brainpower](https://github.com/aman0071232/DSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aman0071232/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/aman0071232/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aman0071232/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2295-replace-elements-in-an-array](https://github.com/aman0071232/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aman0071232/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2498-frog-jump-ii](https://github.com/aman0071232/DSA/tree/master/2498-frog-jump-ii) |
@@ -316,6 +317,7 @@
 | [2050-parallel-courses-iii](https://github.com/aman0071232/DSA/tree/master/2050-parallel-courses-iii) |
 | [2140-solving-questions-with-brainpower](https://github.com/aman0071232/DSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/aman0071232/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aman0071232/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aman0071232/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2466-count-ways-to-build-good-strings](https://github.com/aman0071232/DSA/tree/master/2466-count-ways-to-build-good-strings) |
 | [3693-climbing-stairs-ii](https://github.com/aman0071232/DSA/tree/master/3693-climbing-stairs-ii) |
@@ -353,6 +355,7 @@
 | [0835-image-overlap](https://github.com/aman0071232/DSA/tree/master/0835-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/aman0071232/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1992-find-all-groups-of-farmland](https://github.com/aman0071232/DSA/tree/master/1992-find-all-groups-of-farmland) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aman0071232/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aman0071232/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Union-Find
 |  |
@@ -701,4 +704,5 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aman0071232/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aman0071232/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
