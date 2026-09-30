@@ -20,6 +20,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/aman0071232/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/aman0071232/DSA/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/aman0071232/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aman0071232/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aman0071232/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/aman0071232/DSA/tree/master/0169-majority-element) |
@@ -111,6 +112,7 @@
 | [0043-multiply-strings](https://github.com/aman0071232/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/aman0071232/DSA/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/aman0071232/DSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/aman0071232/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/aman0071232/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aman0071232/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/aman0071232/DSA/tree/master/0392-is-subsequence) |
@@ -141,6 +143,7 @@
 | [0041-first-missing-positive](https://github.com/aman0071232/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aman0071232/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aman0071232/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/aman0071232/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/aman0071232/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aman0071232/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aman0071232/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -284,6 +287,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/aman0071232/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aman0071232/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/aman0071232/DSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/aman0071232/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aman0071232/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aman0071232/DSA/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
@@ -529,6 +533,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aman0071232/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/aman0071232/DSA/tree/master/0139-word-break) |
 | [1575-count-all-possible-routes](https://github.com/aman0071232/DSA/tree/master/1575-count-all-possible-routes) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aman0071232/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Tree
@@ -714,4 +719,12 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aman0071232/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aman0071232/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aman0071232/DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aman0071232/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
