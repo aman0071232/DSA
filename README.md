@@ -406,6 +406,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aman0071232/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/aman0071232/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/aman0071232/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/aman0071232/DSA/tree/master/0685-redundant-connection-ii) |
@@ -426,6 +427,7 @@
 | [0226-invert-binary-tree](https://github.com/aman0071232/DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
 | [0513-find-bottom-left-tree-value](https://github.com/aman0071232/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/aman0071232/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/aman0071232/DSA/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -559,6 +561,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/aman0071232/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/aman0071232/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/aman0071232/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -579,6 +582,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/aman0071232/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/aman0071232/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/aman0071232/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
