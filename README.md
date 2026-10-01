@@ -90,6 +90,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aman0071232/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/aman0071232/DSA/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2498-frog-jump-ii](https://github.com/aman0071232/DSA/tree/master/2498-frog-jump-ii) |
+| [2707-extra-characters-in-a-string](https://github.com/aman0071232/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/aman0071232/DSA/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aman0071232/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aman0071232/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -130,6 +131,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aman0071232/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aman0071232/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/aman0071232/DSA/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2707-extra-characters-in-a-string](https://github.com/aman0071232/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/aman0071232/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/aman0071232/DSA/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -162,6 +164,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/aman0071232/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aman0071232/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/aman0071232/DSA/tree/master/2295-replace-elements-in-an-array) |
+| [2707-extra-characters-in-a-string](https://github.com/aman0071232/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aman0071232/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aman0071232/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -336,6 +339,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aman0071232/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/aman0071232/DSA/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2466-count-ways-to-build-good-strings](https://github.com/aman0071232/DSA/tree/master/2466-count-ways-to-build-good-strings) |
+| [2707-extra-characters-in-a-string](https://github.com/aman0071232/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [3693-climbing-stairs-ii](https://github.com/aman0071232/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3840-house-robber-v](https://github.com/aman0071232/DSA/tree/master/3840-house-robber-v) |
 ## Greedy
@@ -742,6 +746,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/aman0071232/DSA/tree/master/0139-word-break) |
+| [2707-extra-characters-in-a-string](https://github.com/aman0071232/DSA/tree/master/2707-extra-characters-in-a-string) |
 ## Brute-Force Search
 |  |
 | ------- |
