@@ -202,6 +202,7 @@
 | [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/aman0071232/DSA/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
+| [0920-number-of-music-playlists](https://github.com/aman0071232/DSA/tree/master/0920-number-of-music-playlists) |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aman0071232/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/aman0071232/DSA/tree/master/1563-stone-game-v) |
@@ -316,6 +317,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0813-largest-sum-of-averages](https://github.com/aman0071232/DSA/tree/master/0813-largest-sum-of-averages) |
 | [0879-profitable-schemes](https://github.com/aman0071232/DSA/tree/master/0879-profitable-schemes) |
+| [0920-number-of-music-playlists](https://github.com/aman0071232/DSA/tree/master/0920-number-of-music-playlists) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/aman0071232/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0956-tallest-billboard](https://github.com/aman0071232/DSA/tree/master/0956-tallest-billboard) |
 | [0983-minimum-cost-for-tickets](https://github.com/aman0071232/DSA/tree/master/0983-minimum-cost-for-tickets) |
@@ -605,6 +607,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aman0071232/DSA/tree/master/0062-unique-paths) |
+| [0920-number-of-music-playlists](https://github.com/aman0071232/DSA/tree/master/0920-number-of-music-playlists) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
