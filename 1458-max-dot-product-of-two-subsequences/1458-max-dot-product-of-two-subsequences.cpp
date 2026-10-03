@@ -5,7 +5,7 @@ public:
     int solve(vector<int>& nums1, vector<int>& nums2, int i, int j) {
         if (i == m || j == n)
             return -1e9;
-        if (t[i][j] != -1)
+        if (t[i][j] != INT_MIN)
             return t[i][j];
         int val = nums1[i] * nums2[j];
 
@@ -19,7 +19,11 @@ public:
     int maxDotProduct(vector<int>& nums1, vector<int>& nums2) {
         m = nums1.size();
         n = nums2.size();
-        memset(t, -1, sizeof(t));
+        for (int i = 0; i < 501; i++) {
+            for (int j = 0; j < 501; j++) {
+                t[i][j] = INT_MIN;
+            }
+        }
         return solve(nums1, nums2, 0, 0);
     }
 };
