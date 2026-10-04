@@ -13,10 +13,11 @@ public:
                 low--;
                 high++;
             }
+            if (low < 0)
+                low = 0;
             if (high < 0) {
                 return false;
             }
-            low = max(low, 0);
         }
         return low == 0;
     }
