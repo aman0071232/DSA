@@ -127,6 +127,7 @@
 | [0392-is-subsequence](https://github.com/aman0071232/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/aman0071232/DSA/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/aman0071232/DSA/tree/master/0474-ones-and-zeroes) |
+| [0678-valid-parenthesis-string](https://github.com/aman0071232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aman0071232/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aman0071232/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/aman0071232/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -319,6 +320,7 @@
 | [0518-coin-change-ii](https://github.com/aman0071232/DSA/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/aman0071232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/aman0071232/DSA/tree/master/0688-knight-probability-in-chessboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aman0071232/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aman0071232/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -367,6 +369,7 @@
 | [0011-container-with-most-water](https://github.com/aman0071232/DSA/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/aman0071232/DSA/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/aman0071232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aman0071232/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aman0071232/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/aman0071232/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -502,6 +505,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aman0071232/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aman0071232/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/aman0071232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aman0071232/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
@@ -767,6 +771,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aman0071232/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aman0071232/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/aman0071232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aman0071232/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aman0071232/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Trie
