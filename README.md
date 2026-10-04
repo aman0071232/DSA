@@ -213,6 +213,7 @@
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aman0071232/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/aman0071232/DSA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aman0071232/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
 | [2029-stone-game-ix](https://github.com/aman0071232/DSA/tree/master/2029-stone-game-ix) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aman0071232/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -348,6 +349,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aman0071232/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/aman0071232/DSA/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/aman0071232/DSA/tree/master/1575-count-all-possible-routes) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aman0071232/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aman0071232/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aman0071232/DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
@@ -554,6 +556,7 @@
 | [0724-find-pivot-index](https://github.com/aman0071232/DSA/tree/master/0724-find-pivot-index) |
 | [0813-largest-sum-of-averages](https://github.com/aman0071232/DSA/tree/master/0813-largest-sum-of-averages) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman0071232/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aman0071232/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/aman0071232/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/aman0071232/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3903-smallest-stable-index-i](https://github.com/aman0071232/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -625,6 +628,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/aman0071232/DSA/tree/master/0062-unique-paths) |
 | [0920-number-of-music-playlists](https://github.com/aman0071232/DSA/tree/master/0920-number-of-music-playlists) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aman0071232/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
