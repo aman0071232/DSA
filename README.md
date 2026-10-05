@@ -345,6 +345,7 @@
 | [0879-profitable-schemes](https://github.com/aman0071232/DSA/tree/master/0879-profitable-schemes) |
 | [0920-number-of-music-playlists](https://github.com/aman0071232/DSA/tree/master/0920-number-of-music-playlists) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/aman0071232/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0935-knight-dialer](https://github.com/aman0071232/DSA/tree/master/0935-knight-dialer) |
 | [0956-tallest-billboard](https://github.com/aman0071232/DSA/tree/master/0956-tallest-billboard) |
 | [0983-minimum-cost-for-tickets](https://github.com/aman0071232/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
