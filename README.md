@@ -353,6 +353,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/aman0071232/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1105-filling-bookcase-shelves](https://github.com/aman0071232/DSA/tree/master/1105-filling-bookcase-shelves) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/aman0071232/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1187-make-array-strictly-increasing](https://github.com/aman0071232/DSA/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aman0071232/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/aman0071232/DSA/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
