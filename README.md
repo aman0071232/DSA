@@ -138,6 +138,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aman0071232/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0856-score-of-parentheses](https://github.com/aman0071232/DSA/tree/master/0856-score-of-parentheses) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/aman0071232/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0936-stamping-the-sequence](https://github.com/aman0071232/DSA/tree/master/0936-stamping-the-sequence) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aman0071232/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aman0071232/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -392,6 +393,7 @@
 | [0678-valid-parenthesis-string](https://github.com/aman0071232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aman0071232/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aman0071232/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0936-stamping-the-sequence](https://github.com/aman0071232/DSA/tree/master/0936-stamping-the-sequence) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/aman0071232/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/aman0071232/DSA/tree/master/1402-reducing-dishes) |
@@ -528,6 +530,7 @@
 | [0678-valid-parenthesis-string](https://github.com/aman0071232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/aman0071232/DSA/tree/master/0856-score-of-parentheses) |
+| [0936-stamping-the-sequence](https://github.com/aman0071232/DSA/tree/master/0936-stamping-the-sequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aman0071232/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
 |  |
@@ -723,6 +726,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aman0071232/DSA/tree/master/0239-sliding-window-maximum) |
+| [0936-stamping-the-sequence](https://github.com/aman0071232/DSA/tree/master/0936-stamping-the-sequence) |
 ## Monotonic Queue
 |  |
 | ------- |
