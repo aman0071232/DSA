@@ -102,6 +102,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aman0071232/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2942-find-words-containing-character](https://github.com/aman0071232/DSA/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aman0071232/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3366-minimum-array-sum](https://github.com/aman0071232/DSA/tree/master/3366-minimum-array-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aman0071232/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman0071232/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -386,6 +387,7 @@
 | [2466-count-ways-to-build-good-strings](https://github.com/aman0071232/DSA/tree/master/2466-count-ways-to-build-good-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/aman0071232/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aman0071232/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3366-minimum-array-sum](https://github.com/aman0071232/DSA/tree/master/3366-minimum-array-sum) |
 | [3693-climbing-stairs-ii](https://github.com/aman0071232/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3840-house-robber-v](https://github.com/aman0071232/DSA/tree/master/3840-house-robber-v) |
 ## Greedy
