@@ -115,6 +115,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/aman0071232/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/aman0071232/DSA/tree/master/3903-smallest-stable-index-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/aman0071232/DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/aman0071232/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## String
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aman0071232/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman0071232/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aman0071232/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/aman0071232/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Linked List
 |  |
 | ------- |
@@ -605,6 +607,7 @@
 | [2029-stone-game-ix](https://github.com/aman0071232/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/aman0071232/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Memoization
 |  |
 | ------- |
