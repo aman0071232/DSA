@@ -154,6 +154,7 @@
 | [0856-score-of-parentheses](https://github.com/aman0071232/DSA/tree/master/0856-score-of-parentheses) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/aman0071232/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0936-stamping-the-sequence](https://github.com/aman0071232/DSA/tree/master/0936-stamping-the-sequence) |
+| [0981-time-based-key-value-store](https://github.com/aman0071232/DSA/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aman0071232/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aman0071232/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -191,6 +192,7 @@
 | [0523-continuous-subarray-sum](https://github.com/aman0071232/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/aman0071232/DSA/tree/master/0904-fruit-into-baskets) |
+| [0981-time-based-key-value-store](https://github.com/aman0071232/DSA/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman0071232/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -294,6 +296,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aman0071232/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/aman0071232/DSA/tree/master/0658-find-k-closest-elements) |
+| [0981-time-based-key-value-store](https://github.com/aman0071232/DSA/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman0071232/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1187-make-array-strictly-increasing](https://github.com/aman0071232/DSA/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aman0071232/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -894,6 +897,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aman0071232/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0981-time-based-key-value-store](https://github.com/aman0071232/DSA/tree/master/0981-time-based-key-value-store) |
 ## Interactive
 |  |
 | ------- |
