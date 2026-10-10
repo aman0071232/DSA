@@ -37,6 +37,7 @@
 | [0403-frog-jump](https://github.com/aman0071232/DSA/tree/master/0403-frog-jump) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aman0071232/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aman0071232/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aman0071232/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/aman0071232/DSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/aman0071232/DSA/tree/master/0518-coin-change-ii) |
@@ -175,6 +176,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/aman0071232/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aman0071232/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aman0071232/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/aman0071232/DSA/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
