@@ -67,6 +67,7 @@
 | [1035-uncrossed-lines](https://github.com/aman0071232/DSA/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aman0071232/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
+| [1094-car-pooling](https://github.com/aman0071232/DSA/tree/master/1094-car-pooling) |
 | [1105-filling-bookcase-shelves](https://github.com/aman0071232/DSA/tree/master/1105-filling-bookcase-shelves) |
 | [1187-make-array-strictly-increasing](https://github.com/aman0071232/DSA/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aman0071232/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -524,6 +525,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aman0071232/DSA/tree/master/0239-sliding-window-maximum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1094-car-pooling](https://github.com/aman0071232/DSA/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aman0071232/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aman0071232/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Shortest Path
@@ -571,6 +573,7 @@
 | [0043-multiply-strings](https://github.com/aman0071232/DSA/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/aman0071232/DSA/tree/master/0844-backspace-string-compare) |
+| [1094-car-pooling](https://github.com/aman0071232/DSA/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/aman0071232/DSA/tree/master/1929-concatenation-of-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/aman0071232/DSA/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aman0071232/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -598,6 +601,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman0071232/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
+| [1094-car-pooling](https://github.com/aman0071232/DSA/tree/master/1094-car-pooling) |
 | [1187-make-array-strictly-increasing](https://github.com/aman0071232/DSA/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aman0071232/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aman0071232/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -618,6 +622,7 @@
 | [0724-find-pivot-index](https://github.com/aman0071232/DSA/tree/master/0724-find-pivot-index) |
 | [0813-largest-sum-of-averages](https://github.com/aman0071232/DSA/tree/master/0813-largest-sum-of-averages) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman0071232/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/aman0071232/DSA/tree/master/1094-car-pooling) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aman0071232/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/aman0071232/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/aman0071232/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
