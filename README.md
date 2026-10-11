@@ -17,6 +17,7 @@
 | [0053-maximum-subarray](https://github.com/aman0071232/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aman0071232/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/aman0071232/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/aman0071232/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aman0071232/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aman0071232/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -180,6 +181,7 @@
 | [0037-sudoku-solver](https://github.com/aman0071232/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aman0071232/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aman0071232/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/aman0071232/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aman0071232/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/aman0071232/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/aman0071232/DSA/tree/master/0141-linked-list-cycle) |
@@ -460,6 +462,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/aman0071232/DSA/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/aman0071232/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/aman0071232/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/aman0071232/DSA/tree/master/0835-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/aman0071232/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1992-find-all-groups-of-farmland](https://github.com/aman0071232/DSA/tree/master/1992-find-all-groups-of-farmland) |
