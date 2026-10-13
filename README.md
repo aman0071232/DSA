@@ -42,6 +42,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/aman0071232/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aman0071232/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/aman0071232/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/aman0071232/DSA/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/aman0071232/DSA/tree/master/0403-frog-jump) |
@@ -378,6 +379,7 @@
 | [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aman0071232/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/aman0071232/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/aman0071232/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/aman0071232/DSA/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/aman0071232/DSA/tree/master/0343-integer-break) |
