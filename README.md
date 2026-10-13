@@ -127,6 +127,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aman0071232/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3693-climbing-stairs-ii](https://github.com/aman0071232/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aman0071232/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3840-house-robber-v](https://github.com/aman0071232/DSA/tree/master/3840-house-robber-v) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aman0071232/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aman0071232/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -455,6 +456,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2938-separate-black-and-white-balls](https://github.com/aman0071232/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/aman0071232/DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Backtracking
 |  |
@@ -637,6 +639,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/aman0071232/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
