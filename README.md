@@ -42,6 +42,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/aman0071232/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aman0071232/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/aman0071232/DSA/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/aman0071232/DSA/tree/master/0403-frog-jump) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aman0071232/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -377,6 +378,7 @@
 | [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/aman0071232/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aman0071232/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/aman0071232/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/aman0071232/DSA/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/aman0071232/DSA/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/aman0071232/DSA/tree/master/0392-is-subsequence) |
@@ -538,6 +540,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/aman0071232/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aman0071232/DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/aman0071232/DSA/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/aman0071232/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aman0071232/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -836,6 +839,7 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/aman0071232/DSA/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/aman0071232/DSA/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/aman0071232/DSA/tree/master/0518-coin-change-ii) |
 | [0879-profitable-schemes](https://github.com/aman0071232/DSA/tree/master/0879-profitable-schemes) |
@@ -870,6 +874,7 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/aman0071232/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/aman0071232/DSA/tree/master/0518-coin-change-ii) |
 ## Binary Indexed Tree
 |  |
