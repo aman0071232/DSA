@@ -145,6 +145,7 @@
 | [0032-longest-valid-parentheses](https://github.com/aman0071232/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aman0071232/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/aman0071232/DSA/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/aman0071232/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/aman0071232/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/aman0071232/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/aman0071232/DSA/tree/master/0131-palindrome-partitioning) |
@@ -272,6 +273,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/aman0071232/DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aman0071232/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/aman0071232/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/aman0071232/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aman0071232/DSA/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
@@ -357,6 +359,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aman0071232/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/aman0071232/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/aman0071232/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/aman0071232/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/aman0071232/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/aman0071232/DSA/tree/master/0064-minimum-path-sum) |
@@ -441,6 +444,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman0071232/DSA/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/aman0071232/DSA/tree/master/0044-wildcard-matching) |
 | [0605-can-place-flowers](https://github.com/aman0071232/DSA/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/aman0071232/DSA/tree/master/0678-valid-parenthesis-string) |
