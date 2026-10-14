@@ -265,6 +265,7 @@
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aman0071232/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aman0071232/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aman0071232/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aman0071232/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/aman0071232/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aman0071232/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -464,6 +465,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2938-separate-black-and-white-balls](https://github.com/aman0071232/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aman0071232/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/aman0071232/DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Backtracking
