@@ -13,9 +13,9 @@ public:
         int ans = 1e9;
         for (int coin : coins) {
             if (coin <= amount) {
-                int result = solve(coins, amount - coin, dp);
+                int result = 1 + solve(coins, amount - coin, dp);
                 if (result != 1e9)
-                    ans = min(ans, 1 + result);
+                    ans = min(ans, result);
             }
         }
         return dp[amount] = ans;
