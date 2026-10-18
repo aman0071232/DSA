@@ -518,6 +518,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aman0071232/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aman0071232/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -608,6 +609,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aman0071232/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aman0071232/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aman0071232/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/aman0071232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/aman0071232/DSA/tree/master/0844-backspace-string-compare) |
@@ -705,6 +707,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aman0071232/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aman0071232/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/aman0071232/DSA/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aman0071232/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -730,6 +733,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aman0071232/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aman0071232/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/aman0071232/DSA/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aman0071232/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
