@@ -12,35 +12,33 @@
  */
 class Solution {
 public:
-    TreeNode* getinorder(TreeNode* root) {
-        while (root != NULL && root->left != NULL) {
-            root=root->left;
+    TreeNode* findmin(TreeNode* root) {
+        if (root == NULL)
+            return NULL;
+        while (root->left != NULL) {
+            root = root->left;
         }
         return root;
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
         if (root == NULL)
-            return NULL;
-
-        if (root->val > key) {
+            return root;
+        if (key < root->val) {
             root->left = deleteNode(root->left, key);
-        } else if (root->val < key) {
+        } else if (key > root->val) {
             root->right = deleteNode(root->right, key);
         } else {
-            // root==key
-            // 0 and 1 child
-            if (root->left==NULL) {
-                TreeNode* temp = root->right;
-                delete root;
-                return temp;
-            } else if (root->right==NULL) {
-                TreeNode* temp = root->left;
-                delete root;
-                return temp;
+            // 0 or 1 child
+            if (root->left == NULL) {
+                return root->right;
+            } else if (root->right == NULL) {
+                return root->left;
             } else {
-                TreeNode* IS = getinorder(root->right);
-                root->val =IS->val;
-                root->right = deleteNode(root->right, IS->val);
+                // 2 child
+                // inorder successor
+                TreeNode* temp = findmin(root->right);
+                root->val = temp->val;
+                root->right = deleteNode(root->right, temp->val);
             }
         }
         return root;
