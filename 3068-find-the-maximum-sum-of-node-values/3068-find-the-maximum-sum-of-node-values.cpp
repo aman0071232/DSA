@@ -1,17 +1,24 @@
 class Solution {
 public:
+    typedef long long ll;
     long long maximumValueSum(vector<int>& nums, int k,
                               vector<vector<int>>& edges) {
-        long long even = 0;
-        long long odd = LLONG_MIN;
-        for (int x : nums) {
-            long long newEven = max(even + x, odd + (x ^ k));
+        ll sum = 0;
+        int count = 0;
+        int minNuksaan = INT_MAX;
 
-            long long newOdd = max(odd + x, even + (x ^ k));
-
-            even = newEven;
-            odd = newOdd;
+        for (ll num : nums) {
+            if ((num ^ k) > num) {
+                count++;
+                sum += (num ^ k);
+            } else {
+                sum += num;
+            }
+            minNuksaan = min((long long)minNuksaan, abs(num - (num ^ k)));
         }
-        return even;
+        if (count % 2 == 0) {
+            return sum;
+        }
+        return sum - minNuksaan;
     }
 };
