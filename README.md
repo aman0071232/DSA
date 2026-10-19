@@ -124,6 +124,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aman0071232/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/aman0071232/DSA/tree/master/2942-find-words-containing-character) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aman0071232/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3366-minimum-array-sum](https://github.com/aman0071232/DSA/tree/master/3366-minimum-array-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -450,6 +451,7 @@
 | [2466-count-ways-to-build-good-strings](https://github.com/aman0071232/DSA/tree/master/2466-count-ways-to-build-good-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/aman0071232/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aman0071232/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3366-minimum-array-sum](https://github.com/aman0071232/DSA/tree/master/3366-minimum-array-sum) |
 | [3693-climbing-stairs-ii](https://github.com/aman0071232/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3840-house-robber-v](https://github.com/aman0071232/DSA/tree/master/3840-house-robber-v) |
@@ -473,6 +475,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2938-separate-black-and-white-balls](https://github.com/aman0071232/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aman0071232/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/aman0071232/DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
@@ -669,6 +672,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/aman0071232/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/aman0071232/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
@@ -736,6 +740,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aman0071232/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
@@ -790,6 +795,7 @@
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aman0071232/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aman0071232/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
