@@ -273,6 +273,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
 | [2029-stone-game-ix](https://github.com/aman0071232/DSA/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/aman0071232/DSA/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/aman0071232/DSA/tree/master/2469-convert-the-temperature) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aman0071232/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aman0071232/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
