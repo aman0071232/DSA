@@ -996,4 +996,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aman0071232/DSA/tree/master/0042-trapping-rain-water) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aman0071232/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
