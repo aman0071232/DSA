@@ -8,6 +8,7 @@ public:
                 int diff = abs(arr1[i] - arr2[j]);
                 if (diff <= d) {
                     valid = false;
+                    break;
                 }
             }
             if (valid)
