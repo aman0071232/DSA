@@ -343,6 +343,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/aman0071232/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aman0071232/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -478,6 +479,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aman0071232/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0936-stamping-the-sequence](https://github.com/aman0071232/DSA/tree/master/0936-stamping-the-sequence) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/aman0071232/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1382-balance-a-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/aman0071232/DSA/tree/master/1402-reducing-dishes) |
 | [2029-stone-game-ix](https://github.com/aman0071232/DSA/tree/master/2029-stone-game-ix) |
@@ -561,6 +563,7 @@
 | [1192-critical-connections-in-a-network](https://github.com/aman0071232/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aman0071232/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1992-find-all-groups-of-farmland](https://github.com/aman0071232/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aman0071232/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/aman0071232/DSA/tree/master/2360-longest-cycle-in-a-graph) |
@@ -759,6 +762,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aman0071232/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
@@ -789,6 +793,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aman0071232/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -897,6 +902,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aman0071232/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aman0071232/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
