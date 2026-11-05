@@ -557,6 +557,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aman0071232/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/aman0071232/DSA/tree/master/0685-redundant-connection-ii) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/aman0071232/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aman0071232/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -583,6 +584,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aman0071232/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/aman0071232/DSA/tree/master/0685-redundant-connection-ii) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/aman0071232/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aman0071232/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -759,6 +761,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aman0071232/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/aman0071232/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aman0071232/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -790,6 +793,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aman0071232/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/aman0071232/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aman0071232/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -900,6 +904,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/aman0071232/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aman0071232/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/aman0071232/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aman0071232/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/1382-balance-a-binary-search-tree) |
