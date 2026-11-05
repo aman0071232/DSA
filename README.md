@@ -438,6 +438,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aman0071232/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/aman0071232/DSA/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/aman0071232/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-reducing-dishes](https://github.com/aman0071232/DSA/tree/master/1402-reducing-dishes) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/aman0071232/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aman0071232/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -559,6 +560,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/aman0071232/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aman0071232/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1992-find-all-groups-of-farmland](https://github.com/aman0071232/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aman0071232/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/aman0071232/DSA/tree/master/2360-longest-cycle-in-a-graph) |
@@ -756,6 +758,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aman0071232/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aman0071232/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
@@ -785,6 +788,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aman0071232/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aman0071232/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -837,6 +841,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aman0071232/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aman0071232/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -891,6 +896,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aman0071232/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aman0071232/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
