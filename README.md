@@ -102,6 +102,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aman0071232/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/aman0071232/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aman0071232/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1901-find-a-peak-element-ii](https://github.com/aman0071232/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/aman0071232/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -495,6 +496,7 @@
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/aman0071232/DSA/tree/master/1402-reducing-dishes) |
 | [1833-maximum-ice-cream-bars](https://github.com/aman0071232/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aman0071232/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/aman0071232/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aman0071232/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2498-frog-jump-ii](https://github.com/aman0071232/DSA/tree/master/2498-frog-jump-ii) |
@@ -708,6 +710,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/aman0071232/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aman0071232/DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/aman0071232/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aman0071232/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aman0071232/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/aman0071232/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
