@@ -84,6 +84,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aman0071232/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/aman0071232/DSA/tree/master/1288-remove-covered-intervals) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/aman0071232/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1331-rank-transform-of-an-array](https://github.com/aman0071232/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aman0071232/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aman0071232/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aman0071232/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -224,6 +225,7 @@
 | [0981-time-based-key-value-store](https://github.com/aman0071232/DSA/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/aman0071232/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/aman0071232/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aman0071232/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman0071232/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -708,6 +710,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aman0071232/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/aman0071232/DSA/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aman0071232/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1331-rank-transform-of-an-array](https://github.com/aman0071232/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aman0071232/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aman0071232/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/aman0071232/DSA/tree/master/1402-reducing-dishes) |
