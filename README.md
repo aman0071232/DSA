@@ -68,6 +68,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/aman0071232/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0813-largest-sum-of-averages](https://github.com/aman0071232/DSA/tree/master/0813-largest-sum-of-averages) |
 | [0835-image-overlap](https://github.com/aman0071232/DSA/tree/master/0835-image-overlap) |
+| [0877-stone-game](https://github.com/aman0071232/DSA/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/aman0071232/DSA/tree/master/0879-profitable-schemes) |
 | [0904-fruit-into-baskets](https://github.com/aman0071232/DSA/tree/master/0904-fruit-into-baskets) |
 | [0956-tallest-billboard](https://github.com/aman0071232/DSA/tree/master/0956-tallest-billboard) |
@@ -282,6 +283,7 @@
 | [0523-continuous-subarray-sum](https://github.com/aman0071232/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0650-2-keys-keyboard](https://github.com/aman0071232/DSA/tree/master/0650-2-keys-keyboard) |
 | [0788-rotated-digits](https://github.com/aman0071232/DSA/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/aman0071232/DSA/tree/master/0877-stone-game) |
 | [0920-number-of-music-playlists](https://github.com/aman0071232/DSA/tree/master/0920-number-of-music-playlists) |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aman0071232/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -444,6 +446,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman0071232/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/aman0071232/DSA/tree/master/0788-rotated-digits) |
 | [0813-largest-sum-of-averages](https://github.com/aman0071232/DSA/tree/master/0813-largest-sum-of-averages) |
+| [0877-stone-game](https://github.com/aman0071232/DSA/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/aman0071232/DSA/tree/master/0879-profitable-schemes) |
 | [0920-number-of-music-playlists](https://github.com/aman0071232/DSA/tree/master/0920-number-of-music-playlists) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/aman0071232/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -654,6 +657,7 @@
 | ------- |
 | [0464-can-i-win](https://github.com/aman0071232/DSA/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/aman0071232/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 | [1563-stone-game-v](https://github.com/aman0071232/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/aman0071232/DSA/tree/master/2029-stone-game-ix) |
@@ -876,6 +880,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/aman0071232/DSA/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/aman0071232/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -885,6 +890,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/aman0071232/DSA/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/aman0071232/DSA/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
