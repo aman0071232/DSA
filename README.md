@@ -283,6 +283,7 @@
 | [0523-continuous-subarray-sum](https://github.com/aman0071232/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0650-2-keys-keyboard](https://github.com/aman0071232/DSA/tree/master/0650-2-keys-keyboard) |
 | [0788-rotated-digits](https://github.com/aman0071232/DSA/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/aman0071232/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aman0071232/DSA/tree/master/0877-stone-game) |
 | [0920-number-of-music-playlists](https://github.com/aman0071232/DSA/tree/master/0920-number-of-music-playlists) |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
@@ -967,6 +968,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/aman0071232/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aman0071232/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Knapsack Problem
 |  |
