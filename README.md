@@ -140,6 +140,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aman0071232/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman0071232/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aman0071232/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3524-find-x-value-of-array-i](https://github.com/aman0071232/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aman0071232/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3693-climbing-stairs-ii](https://github.com/aman0071232/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aman0071232/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -294,6 +295,7 @@
 | [2469-convert-the-temperature](https://github.com/aman0071232/DSA/tree/master/2469-convert-the-temperature) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aman0071232/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3524-find-x-value-of-array-i](https://github.com/aman0071232/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aman0071232/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aman0071232/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aman0071232/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -487,6 +489,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aman0071232/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3366-minimum-array-sum](https://github.com/aman0071232/DSA/tree/master/3366-minimum-array-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/aman0071232/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/aman0071232/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3840-house-robber-v](https://github.com/aman0071232/DSA/tree/master/3840-house-robber-v) |
 ## Greedy
