@@ -704,6 +704,7 @@
 | [0682-baseball-game](https://github.com/aman0071232/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/aman0071232/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/aman0071232/DSA/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/aman0071232/DSA/tree/master/0901-online-stock-span) |
 | [0936-stamping-the-sequence](https://github.com/aman0071232/DSA/tree/master/0936-stamping-the-sequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aman0071232/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/aman0071232/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -1112,6 +1113,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aman0071232/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/aman0071232/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/aman0071232/DSA/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/aman0071232/DSA/tree/master/0981-time-based-key-value-store) |
 ## Interactive
@@ -1126,6 +1128,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aman0071232/DSA/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/aman0071232/DSA/tree/master/0901-online-stock-span) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/aman0071232/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Manacher
 |  |
@@ -1138,5 +1141,6 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/aman0071232/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/aman0071232/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
