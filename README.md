@@ -153,6 +153,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/aman0071232/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aman0071232/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/aman0071232/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aman0071232/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/aman0071232/DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/aman0071232/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## String
@@ -250,6 +251,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aman0071232/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aman0071232/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3889-mirror-frequency-distance](https://github.com/aman0071232/DSA/tree/master/3889-mirror-frequency-distance) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aman0071232/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/aman0071232/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Linked List
 |  |
@@ -341,6 +343,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aman0071232/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aman0071232/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aman0071232/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aman0071232/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -711,6 +714,7 @@
 | [1291-sequential-digits](https://github.com/aman0071232/DSA/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aman0071232/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman0071232/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aman0071232/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sorting
 |  |
 | ------- |
@@ -768,6 +772,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aman0071232/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/aman0071232/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aman0071232/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Database
 |  |
 | ------- |
