@@ -976,6 +976,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/aman0071232/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/aman0071232/DSA/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aman0071232/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/aman0071232/DSA/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/aman0071232/DSA/tree/master/0936-stamping-the-sequence) |
 ## Monotonic Queue
 |  |
@@ -1107,6 +1108,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aman0071232/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/aman0071232/DSA/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/aman0071232/DSA/tree/master/0981-time-based-key-value-store) |
 ## Interactive
 |  |
@@ -1129,4 +1131,8 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aman0071232/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/aman0071232/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
