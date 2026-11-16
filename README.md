@@ -204,6 +204,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aman0071232/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3889-mirror-frequency-distance](https://github.com/aman0071232/DSA/tree/master/3889-mirror-frequency-distance) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/aman0071232/DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -311,6 +312,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/aman0071232/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aman0071232/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aman0071232/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/aman0071232/DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Recursion
 |  |
 | ------- |
@@ -783,6 +785,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aman0071232/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3889-mirror-frequency-distance](https://github.com/aman0071232/DSA/tree/master/3889-mirror-frequency-distance) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/aman0071232/DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/aman0071232/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Memoization
 |  |
