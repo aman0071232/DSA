@@ -6,7 +6,7 @@ public:
 
             for (int i = 0; i < s.length(); i += k) {
                 int sum = 0;
-                for (int j = i; j < min((int)s.length(), i + k); j++) {
+                for (int j = i; j < i + k && j < s.size(); j++) {
                     sum += s[j] - '0';
                 }
                 ans += to_string(sum);
