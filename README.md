@@ -315,6 +315,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/aman0071232/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aman0071232/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3560-find-minimum-log-transportation-cost](https://github.com/aman0071232/DSA/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aman0071232/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aman0071232/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/aman0071232/DSA/tree/master/3870-count-commas-in-range) |
