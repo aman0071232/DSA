@@ -208,6 +208,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aman0071232/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/aman0071232/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/aman0071232/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aman0071232/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3889-mirror-frequency-distance](https://github.com/aman0071232/DSA/tree/master/3889-mirror-frequency-distance) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/aman0071232/DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -709,6 +710,7 @@
 | [0936-stamping-the-sequence](https://github.com/aman0071232/DSA/tree/master/0936-stamping-the-sequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aman0071232/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/aman0071232/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/aman0071232/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Simulation
 |  |
 | ------- |
@@ -727,6 +729,7 @@
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aman0071232/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/aman0071232/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aman0071232/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/aman0071232/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Enumeration
 |  |
 | ------- |
