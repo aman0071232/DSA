@@ -143,6 +143,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aman0071232/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/aman0071232/DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/aman0071232/DSA/tree/master/3111-minimum-rectangles-to-cover-points) |
+| [3115-maximum-prime-difference](https://github.com/aman0071232/DSA/tree/master/3115-maximum-prime-difference) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aman0071232/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3366-minimum-array-sum](https://github.com/aman0071232/DSA/tree/master/3366-minimum-array-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -319,6 +320,7 @@
 | [2029-stone-game-ix](https://github.com/aman0071232/DSA/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/aman0071232/DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/aman0071232/DSA/tree/master/2469-convert-the-temperature) |
+| [3115-maximum-prime-difference](https://github.com/aman0071232/DSA/tree/master/3115-maximum-prime-difference) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aman0071232/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/aman0071232/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -1061,6 +1063,7 @@
 |  |
 | ------- |
 | [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
+| [3115-maximum-prime-difference](https://github.com/aman0071232/DSA/tree/master/3115-maximum-prime-difference) |
 ## Bitmask
 |  |
 | ------- |
@@ -1161,4 +1164,8 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/aman0071232/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/aman0071232/DSA/tree/master/0933-number-of-recent-calls) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/aman0071232/DSA/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
