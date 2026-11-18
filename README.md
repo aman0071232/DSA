@@ -84,6 +84,7 @@
 | [1094-car-pooling](https://github.com/aman0071232/DSA/tree/master/1094-car-pooling) |
 | [1105-filling-bookcase-shelves](https://github.com/aman0071232/DSA/tree/master/1105-filling-bookcase-shelves) |
 | [1187-make-array-strictly-increasing](https://github.com/aman0071232/DSA/tree/master/1187-make-array-strictly-increasing) |
+| [1224-maximum-equal-frequency](https://github.com/aman0071232/DSA/tree/master/1224-maximum-equal-frequency) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aman0071232/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/aman0071232/DSA/tree/master/1288-remove-covered-intervals) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/aman0071232/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -249,6 +250,7 @@
 | [0981-time-based-key-value-store](https://github.com/aman0071232/DSA/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/aman0071232/DSA/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/aman0071232/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1224-maximum-equal-frequency](https://github.com/aman0071232/DSA/tree/master/1224-maximum-equal-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/aman0071232/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aman0071232/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
