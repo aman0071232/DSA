@@ -142,6 +142,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aman0071232/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aman0071232/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/aman0071232/DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/aman0071232/DSA/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aman0071232/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3366-minimum-array-sum](https://github.com/aman0071232/DSA/tree/master/3366-minimum-array-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -554,6 +555,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/aman0071232/DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/aman0071232/DSA/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/aman0071232/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aman0071232/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -782,6 +784,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/aman0071232/DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/aman0071232/DSA/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/aman0071232/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
