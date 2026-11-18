@@ -144,6 +144,7 @@
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/aman0071232/DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/aman0071232/DSA/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3115-maximum-prime-difference](https://github.com/aman0071232/DSA/tree/master/3115-maximum-prime-difference) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aman0071232/DSA/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aman0071232/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3366-minimum-array-sum](https://github.com/aman0071232/DSA/tree/master/3366-minimum-array-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -526,6 +527,7 @@
 | [2707-extra-characters-in-a-string](https://github.com/aman0071232/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aman0071232/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aman0071232/DSA/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3366-minimum-array-sum](https://github.com/aman0071232/DSA/tree/master/3366-minimum-array-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/aman0071232/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/aman0071232/DSA/tree/master/3693-climbing-stairs-ii) |
