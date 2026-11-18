@@ -209,6 +209,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aman0071232/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/aman0071232/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/aman0071232/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/aman0071232/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aman0071232/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3889-mirror-frequency-distance](https://github.com/aman0071232/DSA/tree/master/3889-mirror-frequency-distance) |
@@ -258,6 +259,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aman0071232/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman0071232/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aman0071232/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/aman0071232/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aman0071232/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3889-mirror-frequency-distance](https://github.com/aman0071232/DSA/tree/master/3889-mirror-frequency-distance) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aman0071232/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -548,6 +550,7 @@
 | [2938-separate-black-and-white-balls](https://github.com/aman0071232/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/aman0071232/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aman0071232/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/aman0071232/DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
@@ -775,6 +778,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/aman0071232/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -813,6 +817,7 @@
 | [2029-stone-game-ix](https://github.com/aman0071232/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/aman0071232/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aman0071232/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3889-mirror-frequency-distance](https://github.com/aman0071232/DSA/tree/master/3889-mirror-frequency-distance) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/aman0071232/DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
