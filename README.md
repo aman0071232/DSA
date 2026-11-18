@@ -314,6 +314,7 @@
 | [0877-stone-game](https://github.com/aman0071232/DSA/tree/master/0877-stone-game) |
 | [0920-number-of-music-playlists](https://github.com/aman0071232/DSA/tree/master/0920-number-of-music-playlists) |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/aman0071232/DSA/tree/master/1227-airplane-seat-assignment-probability) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aman0071232/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aman0071232/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/aman0071232/DSA/tree/master/1406-stone-game-iii) |
@@ -500,6 +501,7 @@
 | [1105-filling-bookcase-shelves](https://github.com/aman0071232/DSA/tree/master/1105-filling-bookcase-shelves) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/aman0071232/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1187-make-array-strictly-increasing](https://github.com/aman0071232/DSA/tree/master/1187-make-array-strictly-increasing) |
+| [1227-airplane-seat-assignment-probability](https://github.com/aman0071232/DSA/tree/master/1227-airplane-seat-assignment-probability) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aman0071232/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/aman0071232/DSA/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/aman0071232/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -702,6 +704,7 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/aman0071232/DSA/tree/master/1227-airplane-seat-assignment-probability) |
 ## Game Theory
 |  |
 | ------- |
@@ -1175,4 +1178,8 @@
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/aman0071232/DSA/tree/master/3115-maximum-prime-difference) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/aman0071232/DSA/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
