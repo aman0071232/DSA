@@ -85,6 +85,7 @@
 | [1105-filling-bookcase-shelves](https://github.com/aman0071232/DSA/tree/master/1105-filling-bookcase-shelves) |
 | [1187-make-array-strictly-increasing](https://github.com/aman0071232/DSA/tree/master/1187-make-array-strictly-increasing) |
 | [1224-maximum-equal-frequency](https://github.com/aman0071232/DSA/tree/master/1224-maximum-equal-frequency) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/aman0071232/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aman0071232/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/aman0071232/DSA/tree/master/1288-remove-covered-intervals) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/aman0071232/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -315,6 +316,7 @@
 | [0920-number-of-music-playlists](https://github.com/aman0071232/DSA/tree/master/0920-number-of-music-playlists) |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/aman0071232/DSA/tree/master/1227-airplane-seat-assignment-probability) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/aman0071232/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aman0071232/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aman0071232/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/aman0071232/DSA/tree/master/1406-stone-game-iii) |
@@ -1047,6 +1049,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aman0071232/DSA/tree/master/0836-rectangle-overlap) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/aman0071232/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aman0071232/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Knapsack Problem
 |  |
