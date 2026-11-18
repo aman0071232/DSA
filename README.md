@@ -209,6 +209,7 @@
 | [2942-find-words-containing-character](https://github.com/aman0071232/DSA/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aman0071232/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/aman0071232/DSA/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/aman0071232/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/aman0071232/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
