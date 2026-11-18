@@ -202,6 +202,7 @@
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/aman0071232/DSA/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aman0071232/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2707-extra-characters-in-a-string](https://github.com/aman0071232/DSA/tree/master/2707-extra-characters-in-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aman0071232/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2938-separate-black-and-white-balls](https://github.com/aman0071232/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/aman0071232/DSA/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
