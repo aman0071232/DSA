@@ -322,6 +322,7 @@
 | [2029-stone-game-ix](https://github.com/aman0071232/DSA/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/aman0071232/DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/aman0071232/DSA/tree/master/2469-convert-the-temperature) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/aman0071232/DSA/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3115-maximum-prime-difference](https://github.com/aman0071232/DSA/tree/master/3115-maximum-prime-difference) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aman0071232/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -750,6 +751,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/aman0071232/DSA/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aman0071232/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/aman0071232/DSA/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman0071232/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aman0071232/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sorting
