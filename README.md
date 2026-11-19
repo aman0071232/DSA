@@ -152,6 +152,7 @@
 | [3364-minimum-positive-sum-subarray](https://github.com/aman0071232/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3366-minimum-array-sum](https://github.com/aman0071232/DSA/tree/master/3366-minimum-array-sum) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aman0071232/DSA/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/aman0071232/DSA/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aman0071232/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman0071232/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -542,6 +543,7 @@
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aman0071232/DSA/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3366-minimum-array-sum](https://github.com/aman0071232/DSA/tree/master/3366-minimum-array-sum) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/aman0071232/DSA/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3524-find-x-value-of-array-i](https://github.com/aman0071232/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/aman0071232/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3840-house-robber-v](https://github.com/aman0071232/DSA/tree/master/3840-house-robber-v) |
@@ -588,6 +590,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/aman0071232/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/aman0071232/DSA/tree/master/0131-palindrome-partitioning) |
 | [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/aman0071232/DSA/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Matrix
 |  |
 | ------- |
@@ -683,6 +686,7 @@
 | [1992-find-all-groups-of-farmland](https://github.com/aman0071232/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aman0071232/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/aman0071232/DSA/tree/master/2360-longest-cycle-in-a-graph) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/aman0071232/DSA/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -956,6 +960,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aman0071232/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/aman0071232/DSA/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aman0071232/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
@@ -1090,6 +1095,7 @@
 | [0464-can-i-win](https://github.com/aman0071232/DSA/tree/master/0464-can-i-win) |
 | [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/aman0071232/DSA/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Meet in the Middle
 |  |
 | ------- |
