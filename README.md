@@ -149,6 +149,7 @@
 | [3111-minimum-rectangles-to-cover-points](https://github.com/aman0071232/DSA/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3115-maximum-prime-difference](https://github.com/aman0071232/DSA/tree/master/3115-maximum-prime-difference) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aman0071232/DSA/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/aman0071232/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aman0071232/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3366-minimum-array-sum](https://github.com/aman0071232/DSA/tree/master/3366-minimum-array-sum) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aman0071232/DSA/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
@@ -968,6 +969,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aman0071232/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/aman0071232/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/aman0071232/DSA/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aman0071232/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
