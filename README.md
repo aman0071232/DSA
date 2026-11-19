@@ -220,6 +220,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aman0071232/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/aman0071232/DSA/tree/master/3110-score-of-a-string) |
 | [3210-find-the-encrypted-string](https://github.com/aman0071232/DSA/tree/master/3210-find-the-encrypted-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aman0071232/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aman0071232/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aman0071232/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -593,6 +594,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/aman0071232/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/aman0071232/DSA/tree/master/0131-palindrome-partitioning) |
 | [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aman0071232/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/aman0071232/DSA/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Matrix
 |  |
@@ -965,6 +967,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aman0071232/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aman0071232/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/aman0071232/DSA/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aman0071232/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
