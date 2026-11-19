@@ -302,6 +302,7 @@
 | [0043-multiply-strings](https://github.com/aman0071232/DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/aman0071232/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aman0071232/DSA/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/aman0071232/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aman0071232/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aman0071232/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aman0071232/DSA/tree/master/0268-missing-number) |
@@ -376,6 +377,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aman0071232/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/aman0071232/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/aman0071232/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aman0071232/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aman0071232/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aman0071232/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -1188,4 +1190,8 @@
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/aman0071232/DSA/tree/master/1227-airplane-seat-assignment-probability) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aman0071232/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
