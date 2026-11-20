@@ -324,6 +324,7 @@
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/aman0071232/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0650-2-keys-keyboard](https://github.com/aman0071232/DSA/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/aman0071232/DSA/tree/master/0670-maximum-swap) |
 | [0788-rotated-digits](https://github.com/aman0071232/DSA/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/aman0071232/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aman0071232/DSA/tree/master/0877-stone-game) |
@@ -568,6 +569,7 @@
 | [0605-can-place-flowers](https://github.com/aman0071232/DSA/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/aman0071232/DSA/tree/master/0649-dota2-senate) |
+| [0670-maximum-swap](https://github.com/aman0071232/DSA/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/aman0071232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aman0071232/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aman0071232/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
