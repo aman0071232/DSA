@@ -156,6 +156,7 @@
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aman0071232/DSA/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/aman0071232/DSA/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3457-eat-pizzas](https://github.com/aman0071232/DSA/tree/master/3457-eat-pizzas) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aman0071232/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman0071232/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aman0071232/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -584,6 +585,7 @@
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/aman0071232/DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/aman0071232/DSA/tree/master/3111-minimum-rectangles-to-cover-points) |
+| [3457-eat-pizzas](https://github.com/aman0071232/DSA/tree/master/3457-eat-pizzas) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/aman0071232/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aman0071232/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -821,6 +823,7 @@
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/aman0071232/DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/aman0071232/DSA/tree/master/3111-minimum-rectangles-to-cover-points) |
+| [3457-eat-pizzas](https://github.com/aman0071232/DSA/tree/master/3457-eat-pizzas) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/aman0071232/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
