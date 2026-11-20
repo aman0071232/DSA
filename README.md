@@ -230,6 +230,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/aman0071232/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/aman0071232/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
+| [3856-trim-trailing-vowels](https://github.com/aman0071232/DSA/tree/master/3856-trim-trailing-vowels) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aman0071232/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3889-mirror-frequency-distance](https://github.com/aman0071232/DSA/tree/master/3889-mirror-frequency-distance) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/aman0071232/DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
