@@ -319,6 +319,7 @@
 | [0268-missing-number](https://github.com/aman0071232/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/aman0071232/DSA/tree/master/0343-integer-break) |
+| [0458-poor-pigs](https://github.com/aman0071232/DSA/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/aman0071232/DSA/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/aman0071232/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -487,6 +488,7 @@
 | [0403-frog-jump](https://github.com/aman0071232/DSA/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/aman0071232/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aman0071232/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/aman0071232/DSA/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/aman0071232/DSA/tree/master/0464-can-i-win) |
 | [0474-ones-and-zeroes](https://github.com/aman0071232/DSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
@@ -951,6 +953,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aman0071232/DSA/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/aman0071232/DSA/tree/master/0458-poor-pigs) |
 | [0920-number-of-music-playlists](https://github.com/aman0071232/DSA/tree/master/0920-number-of-music-playlists) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aman0071232/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aman0071232/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
