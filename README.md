@@ -139,6 +139,7 @@
 | [2707-extra-characters-in-a-string](https://github.com/aman0071232/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [2748-number-of-beautiful-pairs](https://github.com/aman0071232/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/aman0071232/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [2751-robot-collisions](https://github.com/aman0071232/DSA/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aman0071232/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aman0071232/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -770,6 +771,7 @@
 | [0936-stamping-the-sequence](https://github.com/aman0071232/DSA/tree/master/0936-stamping-the-sequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aman0071232/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/aman0071232/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2751-robot-collisions](https://github.com/aman0071232/DSA/tree/master/2751-robot-collisions) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/aman0071232/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Simulation
 |  |
@@ -785,6 +787,7 @@
 | [2289-steps-to-make-array-non-decreasing](https://github.com/aman0071232/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2295-replace-elements-in-an-array](https://github.com/aman0071232/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/aman0071232/DSA/tree/master/2352-equal-row-and-column-pairs) |
+| [2751-robot-collisions](https://github.com/aman0071232/DSA/tree/master/2751-robot-collisions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aman0071232/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aman0071232/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aman0071232/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -835,6 +838,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/aman0071232/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/aman0071232/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aman0071232/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2751-robot-collisions](https://github.com/aman0071232/DSA/tree/master/2751-robot-collisions) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aman0071232/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
