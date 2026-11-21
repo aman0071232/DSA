@@ -138,6 +138,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aman0071232/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2707-extra-characters-in-a-string](https://github.com/aman0071232/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [2748-number-of-beautiful-pairs](https://github.com/aman0071232/DSA/tree/master/2748-number-of-beautiful-pairs) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/aman0071232/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aman0071232/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aman0071232/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -348,6 +349,7 @@
 | [2413-smallest-even-multiple](https://github.com/aman0071232/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/aman0071232/DSA/tree/master/2469-convert-the-temperature) |
 | [2748-number-of-beautiful-pairs](https://github.com/aman0071232/DSA/tree/master/2748-number-of-beautiful-pairs) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/aman0071232/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/aman0071232/DSA/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3115-maximum-prime-difference](https://github.com/aman0071232/DSA/tree/master/3115-maximum-prime-difference) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aman0071232/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -558,6 +560,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/aman0071232/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2466-count-ways-to-build-good-strings](https://github.com/aman0071232/DSA/tree/master/2466-count-ways-to-build-good-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/aman0071232/DSA/tree/master/2707-extra-characters-in-a-string) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/aman0071232/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aman0071232/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aman0071232/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
