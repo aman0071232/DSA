@@ -740,6 +740,7 @@
 | ------- |
 | [1025-divisor-game](https://github.com/aman0071232/DSA/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/aman0071232/DSA/tree/master/1227-airplane-seat-assignment-probability) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/aman0071232/DSA/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 ## Game Theory
 |  |
 | ------- |
@@ -791,6 +792,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/aman0071232/DSA/tree/master/1291-sequential-digits) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/aman0071232/DSA/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aman0071232/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/aman0071232/DSA/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman0071232/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -987,6 +989,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aman0071232/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/aman0071232/DSA/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aman0071232/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/aman0071232/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aman0071232/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
