@@ -49,6 +49,7 @@
 | [0312-burst-balloons](https://github.com/aman0071232/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/aman0071232/DSA/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0384-shuffle-an-array](https://github.com/aman0071232/DSA/tree/master/0384-shuffle-an-array) |
 | [0403-frog-jump](https://github.com/aman0071232/DSA/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/aman0071232/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aman0071232/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -332,6 +333,7 @@
 | [0365-water-and-jug-problem](https://github.com/aman0071232/DSA/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/aman0071232/DSA/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/aman0071232/DSA/tree/master/0372-super-pow) |
+| [0384-shuffle-an-array](https://github.com/aman0071232/DSA/tree/master/0384-shuffle-an-array) |
 | [0458-poor-pigs](https://github.com/aman0071232/DSA/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/aman0071232/DSA/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
@@ -1220,6 +1222,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aman0071232/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0384-shuffle-an-array](https://github.com/aman0071232/DSA/tree/master/0384-shuffle-an-array) |
 | [0901-online-stock-span](https://github.com/aman0071232/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/aman0071232/DSA/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/aman0071232/DSA/tree/master/0981-time-based-key-value-store) |
@@ -1286,4 +1289,8 @@
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/aman0071232/DSA/tree/master/0372-super-pow) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/aman0071232/DSA/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
