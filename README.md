@@ -334,6 +334,7 @@
 | [0371-sum-of-two-integers](https://github.com/aman0071232/DSA/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/aman0071232/DSA/tree/master/0372-super-pow) |
 | [0384-shuffle-an-array](https://github.com/aman0071232/DSA/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/aman0071232/DSA/tree/master/0390-elimination-game) |
 | [0458-poor-pigs](https://github.com/aman0071232/DSA/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/aman0071232/DSA/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
@@ -383,6 +384,7 @@
 | [0044-wildcard-matching](https://github.com/aman0071232/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/aman0071232/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aman0071232/DSA/tree/master/0206-reverse-linked-list) |
+| [0390-elimination-game](https://github.com/aman0071232/DSA/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman0071232/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
