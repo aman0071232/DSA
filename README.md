@@ -329,6 +329,7 @@
 | [0268-missing-number](https://github.com/aman0071232/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/aman0071232/DSA/tree/master/0343-integer-break) |
+| [0365-water-and-jug-problem](https://github.com/aman0071232/DSA/tree/master/0365-water-and-jug-problem) |
 | [0458-poor-pigs](https://github.com/aman0071232/DSA/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/aman0071232/DSA/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
@@ -671,6 +672,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aman0071232/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aman0071232/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/aman0071232/DSA/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/aman0071232/DSA/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aman0071232/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/aman0071232/DSA/tree/master/0437-path-sum-iii) |
@@ -707,6 +709,7 @@
 | [0226-invert-binary-tree](https://github.com/aman0071232/DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/aman0071232/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/aman0071232/DSA/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/aman0071232/DSA/tree/master/0365-water-and-jug-problem) |
 | [0513-find-bottom-left-tree-value](https://github.com/aman0071232/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aman0071232/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aman0071232/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1255,4 +1258,20 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aman0071232/DSA/tree/master/0069-sqrtx) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/aman0071232/DSA/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/aman0071232/DSA/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/aman0071232/DSA/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/aman0071232/DSA/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
