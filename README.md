@@ -331,6 +331,7 @@
 | [0343-integer-break](https://github.com/aman0071232/DSA/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/aman0071232/DSA/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/aman0071232/DSA/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/aman0071232/DSA/tree/master/0372-super-pow) |
 | [0458-poor-pigs](https://github.com/aman0071232/DSA/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/aman0071232/DSA/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
@@ -437,6 +438,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/aman0071232/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aman0071232/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0372-super-pow](https://github.com/aman0071232/DSA/tree/master/0372-super-pow) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aman0071232/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/aman0071232/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aman0071232/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1276,4 +1278,12 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/aman0071232/DSA/tree/master/0365-water-and-jug-problem) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/aman0071232/DSA/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/aman0071232/DSA/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
