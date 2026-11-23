@@ -186,6 +186,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aman0071232/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/aman0071232/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/aman0071232/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/aman0071232/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aman0071232/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/aman0071232/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aman0071232/DSA/tree/master/0032-longest-valid-parentheses) |
@@ -248,6 +249,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aman0071232/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman0071232/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/aman0071232/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aman0071232/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/aman0071232/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aman0071232/DSA/tree/master/0041-first-missing-positive) |
@@ -322,6 +324,7 @@
 | [0002-add-two-numbers](https://github.com/aman0071232/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aman0071232/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aman0071232/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/aman0071232/DSA/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/aman0071232/DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/aman0071232/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aman0071232/DSA/tree/master/0062-unique-paths) |
