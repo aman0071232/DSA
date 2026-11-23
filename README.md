@@ -93,6 +93,7 @@
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/aman0071232/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-rank-transform-of-an-array](https://github.com/aman0071232/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aman0071232/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aman0071232/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aman0071232/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aman0071232/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -349,6 +350,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/aman0071232/DSA/tree/master/1227-airplane-seat-assignment-probability) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aman0071232/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aman0071232/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aman0071232/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aman0071232/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/aman0071232/DSA/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aman0071232/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -878,6 +880,7 @@
 | [0813-largest-sum-of-averages](https://github.com/aman0071232/DSA/tree/master/0813-largest-sum-of-averages) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman0071232/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/aman0071232/DSA/tree/master/1094-car-pooling) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aman0071232/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aman0071232/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aman0071232/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aman0071232/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1228,6 +1231,7 @@
 | [0901-online-stock-span](https://github.com/aman0071232/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/aman0071232/DSA/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/aman0071232/DSA/tree/master/0981-time-based-key-value-store) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aman0071232/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Interactive
 |  |
 | ------- |
@@ -1255,6 +1259,7 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/aman0071232/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/aman0071232/DSA/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aman0071232/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Primality Test
 |  |
 | ------- |
