@@ -1020,6 +1020,7 @@
 | [0371-sum-of-two-integers](https://github.com/aman0071232/DSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/aman0071232/DSA/tree/master/0389-find-the-difference) |
 | [0464-can-i-win](https://github.com/aman0071232/DSA/tree/master/0464-can-i-win) |
+| [0868-binary-gap](https://github.com/aman0071232/DSA/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aman0071232/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/aman0071232/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1799-maximize-score-after-n-operations](https://github.com/aman0071232/DSA/tree/master/1799-maximize-score-after-n-operations) |
