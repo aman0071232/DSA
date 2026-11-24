@@ -161,6 +161,7 @@
 | [3366-minimum-array-sum](https://github.com/aman0071232/DSA/tree/master/3366-minimum-array-sum) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aman0071232/DSA/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/aman0071232/DSA/tree/master/3376-minimum-time-to-break-locks-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aman0071232/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3457-eat-pizzas](https://github.com/aman0071232/DSA/tree/master/3457-eat-pizzas) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aman0071232/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -371,6 +372,7 @@
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/aman0071232/DSA/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3115-maximum-prime-difference](https://github.com/aman0071232/DSA/tree/master/3115-maximum-prime-difference) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aman0071232/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aman0071232/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aman0071232/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aman0071232/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3524-find-x-value-of-array-i](https://github.com/aman0071232/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -413,6 +415,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aman0071232/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aman0071232/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aman0071232/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aman0071232/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aman0071232/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Binary Search
 |  |
@@ -827,6 +830,7 @@
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/aman0071232/DSA/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aman0071232/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/aman0071232/DSA/tree/master/3001-minimum-moves-to-capture-the-queen) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aman0071232/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman0071232/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aman0071232/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sorting
@@ -1162,6 +1166,7 @@
 | [2413-smallest-even-multiple](https://github.com/aman0071232/DSA/tree/master/2413-smallest-even-multiple) |
 | [2748-number-of-beautiful-pairs](https://github.com/aman0071232/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3115-maximum-prime-difference](https://github.com/aman0071232/DSA/tree/master/3115-maximum-prime-difference) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aman0071232/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aman0071232/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bitmask
 |  |
