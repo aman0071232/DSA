@@ -204,6 +204,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/aman0071232/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aman0071232/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aman0071232/DSA/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/aman0071232/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/aman0071232/DSA/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/aman0071232/DSA/tree/master/0474-ones-and-zeroes) |
 | [0649-dota2-senate](https://github.com/aman0071232/DSA/tree/master/0649-dota2-senate) |
@@ -269,6 +270,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aman0071232/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/aman0071232/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aman0071232/DSA/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/aman0071232/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aman0071232/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aman0071232/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/aman0071232/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -403,6 +405,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aman0071232/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/aman0071232/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/aman0071232/DSA/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/aman0071232/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/aman0071232/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/aman0071232/DSA/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/aman0071232/DSA/tree/master/0904-fruit-into-baskets) |
