@@ -212,6 +212,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/aman0071232/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aman0071232/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/aman0071232/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/aman0071232/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0649-dota2-senate](https://github.com/aman0071232/DSA/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/aman0071232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aman0071232/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -280,6 +281,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aman0071232/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aman0071232/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/aman0071232/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0535-encode-and-decode-tinyurl](https://github.com/aman0071232/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0726-number-of-atoms](https://github.com/aman0071232/DSA/tree/master/0726-number-of-atoms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aman0071232/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/aman0071232/DSA/tree/master/0904-fruit-into-baskets) |
@@ -1253,6 +1255,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aman0071232/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0384-shuffle-an-array](https://github.com/aman0071232/DSA/tree/master/0384-shuffle-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/aman0071232/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0901-online-stock-span](https://github.com/aman0071232/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/aman0071232/DSA/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/aman0071232/DSA/tree/master/0981-time-based-key-value-store) |
@@ -1325,4 +1328,8 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/aman0071232/DSA/tree/master/0384-shuffle-an-array) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/aman0071232/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
