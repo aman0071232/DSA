@@ -216,6 +216,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/aman0071232/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/aman0071232/DSA/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/aman0071232/DSA/tree/master/0539-minimum-time-difference) |
+| [0541-reverse-string-ii](https://github.com/aman0071232/DSA/tree/master/0541-reverse-string-ii) |
 | [0649-dota2-senate](https://github.com/aman0071232/DSA/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/aman0071232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aman0071232/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -496,6 +497,7 @@
 | [0443-string-compression](https://github.com/aman0071232/DSA/tree/master/0443-string-compression) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aman0071232/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/aman0071232/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0541-reverse-string-ii](https://github.com/aman0071232/DSA/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/aman0071232/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/aman0071232/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/aman0071232/DSA/tree/master/0844-backspace-string-compare) |
