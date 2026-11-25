@@ -61,6 +61,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aman0071232/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/aman0071232/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/aman0071232/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0539-minimum-time-difference](https://github.com/aman0071232/DSA/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aman0071232/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/aman0071232/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/aman0071232/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -214,6 +215,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/aman0071232/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/aman0071232/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/aman0071232/DSA/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/aman0071232/DSA/tree/master/0539-minimum-time-difference) |
 | [0649-dota2-senate](https://github.com/aman0071232/DSA/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/aman0071232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aman0071232/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -358,6 +360,7 @@
 | [0486-predict-the-winner](https://github.com/aman0071232/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/aman0071232/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/aman0071232/DSA/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/aman0071232/DSA/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/aman0071232/DSA/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/aman0071232/DSA/tree/master/0670-maximum-swap) |
 | [0788-rotated-digits](https://github.com/aman0071232/DSA/tree/master/0788-rotated-digits) |
@@ -865,6 +868,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/aman0071232/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aman0071232/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/aman0071232/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0539-minimum-time-difference](https://github.com/aman0071232/DSA/tree/master/0539-minimum-time-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aman0071232/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/aman0071232/DSA/tree/master/0658-find-k-closest-elements) |
 | [0726-number-of-atoms](https://github.com/aman0071232/DSA/tree/master/0726-number-of-atoms) |
