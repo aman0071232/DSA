@@ -208,6 +208,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/aman0071232/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/aman0071232/DSA/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/aman0071232/DSA/tree/master/0474-ones-and-zeroes) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/aman0071232/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/aman0071232/DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0649-dota2-senate](https://github.com/aman0071232/DSA/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/aman0071232/DSA/tree/master/0678-valid-parenthesis-string) |
