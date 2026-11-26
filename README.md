@@ -248,6 +248,7 @@
 | [3110-score-of-a-string](https://github.com/aman0071232/DSA/tree/master/3110-score-of-a-string) |
 | [3210-find-the-encrypted-string](https://github.com/aman0071232/DSA/tree/master/3210-find-the-encrypted-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aman0071232/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3412-find-mirror-score-of-a-string](https://github.com/aman0071232/DSA/tree/master/3412-find-mirror-score-of-a-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aman0071232/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aman0071232/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aman0071232/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -309,6 +310,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aman0071232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aman0071232/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aman0071232/DSA/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
+| [3412-find-mirror-score-of-a-string](https://github.com/aman0071232/DSA/tree/master/3412-find-mirror-score-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aman0071232/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aman0071232/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aman0071232/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -822,6 +824,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aman0071232/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/aman0071232/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2751-robot-collisions](https://github.com/aman0071232/DSA/tree/master/2751-robot-collisions) |
+| [3412-find-mirror-score-of-a-string](https://github.com/aman0071232/DSA/tree/master/3412-find-mirror-score-of-a-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/aman0071232/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Simulation
 |  |
@@ -842,6 +845,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aman0071232/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aman0071232/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3360-stone-removal-game](https://github.com/aman0071232/DSA/tree/master/3360-stone-removal-game) |
+| [3412-find-mirror-score-of-a-string](https://github.com/aman0071232/DSA/tree/master/3412-find-mirror-score-of-a-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aman0071232/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aman0071232/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aman0071232/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
